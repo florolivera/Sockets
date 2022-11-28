@@ -1,0 +1,6 @@
+C:\Users\t20083\source\repos\sockets\sockets\bin\Debug\sockets.dll
+C:\Users\t20083\source\repos\sockets\sockets\bin\Debug\sockets.pdb
+C:\Users\t20083\source\repos\sockets\sockets\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\t20083\source\repos\sockets\sockets\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\t20083\source\repos\sockets\sockets\obj\Debug\sockets.dll
+C:\Users\t20083\source\repos\sockets\sockets\obj\Debug\sockets.pdb

@@ -1,0 +1,6 @@
+C:\Users\t20083\source\repos\sockets\Client\bin\Debug\Client.exe
+C:\Users\t20083\source\repos\sockets\Client\bin\Debug\Client.pdb
+C:\Users\t20083\source\repos\sockets\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\t20083\source\repos\sockets\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\t20083\source\repos\sockets\Client\obj\Debug\Client.exe
+C:\Users\t20083\source\repos\sockets\Client\obj\Debug\Client.pdb
